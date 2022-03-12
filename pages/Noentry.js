@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Image from 'next/image'
 import NextLink from 'next/link'
 
+
 function Noentry() {
   return (
 
